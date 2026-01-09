@@ -1,0 +1,8 @@
+{
+  "name": "FalcoHN - Estrategia Digital y Autoridad",
+  "description": "Sitio web profesional de Saúl Milla (FalcoHN) enfocado en consultoría de alto nivel, estrategia digital e integración de contenido histórico y tecnológico.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
